@@ -13,7 +13,7 @@ Algunas de las imágenes generadas:
 
 ![Corte vertical Theta_v](images/Thetav_XZ_Y2_t7.png)
 ![Corte horizontal W](images/W_Z_2_t7.png)
-![Corte horizontal Theta_v animación gif](images/Ciclo_de_vida.gif)
+![Corte horizontal Theta_v animación gif](images/Ciclo_de_vida_Theta_v.gif)
 
 ## Sobre el modelo PALM
 
