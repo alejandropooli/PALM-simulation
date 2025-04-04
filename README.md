@@ -4,15 +4,16 @@ Este repositorio contiene los archivos de entrada y algunos resultados de una si
 
 ## Archivos incluidos
 
-- `e1_cbl_p3d - Condiciones iniciales`: Archivo con las condiciones iniciales y de contorno
-- Carpeta `images/`: Contiene visualizaciones de los resultados
+- `inputs/e1_cbl_p3d`: Configuración de la corrida
+- Carpeta `imagenes/`: Contiene visualizaciones de los resultados
 
 ## Resultados
 
 Algunas de las imágenes generadas:
 
-![Ejemplo de velocidad del viento](images/viento_10m.png)
-![Ejemplo de temperatura](images/temperatura_superficie.png)
+![Corte vertical Theta_v](images/Thetav_XZ_Y2_t7.png)
+![Corte horizontal W](images/W_Z_2_t7.png)
+![Corte horizontal Theta_v animación gif](images/Ciclo de vida.gif)
 
 ## Sobre el modelo PALM
 
