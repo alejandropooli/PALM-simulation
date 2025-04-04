@@ -1,0 +1,10 @@
+Se muestra el ciclo de vida de una térmica
+Para reconstruir el ciclo de vida de una térmica, se realizó una simulación con las mismas características que la Corrida 1, pero se configuró una salida de datos cada 10 segundos. Esto permitió analizar los procesos que ocurren en esta escala de tiempo dentro de las térmicas. En la Fig. 4.X, se pueden observar los siguientes estadios en el ciclo de vida de una térmica:
+
+a) El calentamiento del suelo genera una CS superadiabática. El ascenso resultante provoca una convergencia horizontal del aire en esta capa.
+b) Se comienza a desarrollar una estructura coherente de aire ascendente (pluma). Algunas burbujas se desprenden de la columna principal y se mezclan con el entorno turbulento.
+c) A medida que la columna crece en altura, se refuerzan los ascensos, y en su parte superior, el aire más frío del entorno es desplazado hacia los costados, lo que genera resistencia en su avance.
+d) El aire más frío desplazado es forzado a descender por los costados, y parte de este reingresa a la columna de aire ascendente, lo que provoca eventualmente la división de la columna en burbujas.
+e) La columna alcanza su madurez, llegando a su máxima extensión de velocidad vertical, abarcando toda la CM. En su parte superior, el aire de la columna es más frío que el del entorno, por lo que diverge horizontalmente y luego es forzado a descender, arrastrando ocasionalmente mechones de aire más caliente de la AL.
+f) Comienza la disipación de la térmica, favorecida por la mezcla con el aire descendente más frío, y la turbulencia termina rompiendo la columna en varias burbujas aisladas.
+
