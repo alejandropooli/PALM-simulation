@@ -10,9 +10,13 @@ Este repositorio contiene los archivos de entrada y algunos resultados de una si
 ## Resultados
 
 Algunas de las imágenes generadas:
-
+Corte vertical de Theta_v:
 ![Corte vertical Theta_v](images/Thetav_XZ_Y2_t7.png)
+Corte vertical de q:
+![Corte vertical q](images/q_anom_XZ_Y2_t7.png)
+Corte horizontal de w:
 ![Corte horizontal W](images/W_Z_2_t7.png)
+Corte vertical de Theta_v (animación cada 10 segundos):
 ![Corte horizontal Theta_v animación gif](images/Ciclo_de_vida_Theta_v.gif)
 
 ## Sobre el modelo PALM
